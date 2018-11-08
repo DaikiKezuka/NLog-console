@@ -1,0 +1,8 @@
+D:\work\NLogSample\NLogSample\bin\Debug\NLogSample.exe.config
+D:\work\NLogSample\NLogSample\bin\Debug\NLogSample.exe
+D:\work\NLogSample\NLogSample\bin\Debug\NLogSample.pdb
+D:\work\NLogSample\NLogSample\bin\Debug\NLog.dll
+D:\work\NLogSample\NLogSample\bin\Debug\NLog.xml
+D:\work\NLogSample\NLogSample\obj\Debug\NLogSample.csprojResolveAssemblyReference.cache
+D:\work\NLogSample\NLogSample\obj\Debug\NLogSample.exe
+D:\work\NLogSample\NLogSample\obj\Debug\NLogSample.pdb
